@@ -5,5 +5,6 @@
   "documentation": "https://www.home-assistant.io/integrations/onkyo",
   "iot_class": "local_polling",
   "loggers": ["eiscp"],
-  "requirements": ["onkyo-eiscp==1.2.7"]
+  "requirements": ["onkyo-eiscp==1.2.7"],
+  "version": "2024.6.4"
 }
