@@ -8,7 +8,7 @@ This is a custom component based on the onkyo integration of [Home Assistant](ht
 
 ## Reproduction
 
-This repository was initialized using [git-filter-repo](git filter-repo --path homeassistant/components/onkyo --path-rename homeassistant/components/onkyo:custom_components/onkyo) with the following command-line:
+This repository was initialized using [git-filter-repo](https://github.com/newren/git-filter-repo) with the following command-line:
 
 ```sh
 git clone -b dev --single-branch https://github.com/home-assistant/core.git homeassistant-onkyo-legacy
